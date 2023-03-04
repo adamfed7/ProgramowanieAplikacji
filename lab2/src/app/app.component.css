@@ -1,0 +1,6 @@
+p {
+    font-style: italic;
+}
+:host{
+    background-color: red;
+}
